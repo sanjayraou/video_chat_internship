@@ -124,6 +124,7 @@ a {
   outline: none;
   border-radius: 6px;
   color: #fff;
+  font-weight: 800;
 }
 .submit-btn:hover {
   width: 100%;
@@ -170,8 +171,7 @@ a {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: red;
   font-weight: 700;
-  padding: 3px;
-  margin-top: 5px;
+  padding: 4px;
 }
 .not_a {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
